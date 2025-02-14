@@ -11,5 +11,5 @@ It includes the following:
 </li>
   <li>Commits, Pushes, and Merges
 </li>
-  <li>Updating the Board</li>
+  <li>Updating the Project Board</li>
 </ol>
