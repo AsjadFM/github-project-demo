@@ -4,12 +4,7 @@ The following showcases an example of using the github project board.
 
 It includes the following:
 
-<ol>
-  <li>Issues with Tasks
-</li>
-  <li>A Repo with Code
-</li>
-  <li>Commits, Pushes, and Merges
-</li>
-  <li>Updating the Project Board</li>
-</ol>
+- Issues with tasks
+- A repo with code
+- Commits, Pushes, and Merges
+- Updating the Project Board itself
